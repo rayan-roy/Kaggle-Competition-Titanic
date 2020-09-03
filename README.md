@@ -12,7 +12,7 @@ First data science project, learning on my own
 1. Understood what Exploratory Data Analysis (EDA) is
 2. Used various statistical methods to fill missing datasets like mean and median
 3. Preprocessed data and converted categorical data into numerical for smoother analysis
-4. Used Decision Tree Forrest Classifier to model prediction
+4. Used Decision Tree Classifier to model prediction
 5. Used Accuracy score for model validation
 
 ## Readability Fix:
